@@ -1,3 +1,4 @@
+markdown
 # STM32F407 智能避线巡线小车
 
 基于 STM32F407IGH6 + FreeRTOS 的智能小车控制系统，实现循迹、避障、PID 速度控制。
@@ -19,7 +20,6 @@
 | 操作系统 | FreeRTOS |
 | 开发环境 | STM32CubeIDE / Keil |
 
-text
 ## 项目结构
 Core/
 ├── BSP/ # 板级支持包（PID控制、巡线传感器）
@@ -29,10 +29,8 @@ Core/
 
 text
 
-
 ## 演示视频
 [点击观看演示视频](docs/demo.mp4)（待上传）
 
 ## 作者
 李宜万 | 应急管理大学 物联网工程
-GitHub: [xiaozhuzhu322](https://github.com/xiaozhuzhu322)
