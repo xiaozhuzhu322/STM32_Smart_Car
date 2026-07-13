@@ -27,7 +27,6 @@ Core/
 ├── Src/ # 源文件（main.c、freertos.c等）
 └── Startup/ # 启动文件
 
-
 ## 演示视频
 [点击观看演示视频](docs/demo.mp4)（待上传）
 
