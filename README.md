@@ -20,6 +20,7 @@
 | 开发环境 | STM32CubeIDE / Keil |
 
 ## 项目结构
+
 Core/
 ├── BSP/ # 板级支持包（PID控制、巡线传感器）
 ├── Inc/ # 头文件
