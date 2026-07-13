@@ -22,7 +22,7 @@
 ## 项目结构
 
 Core/
-├── BSP/     # 板级支持包（PID控制、巡线传感器）
+├── BSP/     # 板级支持包（PID控制、巡线传感器驱动）
 ├── Inc/     # 头文件
 ├── Src/     # 源文件（main.c、freertos.c等）
 └── Startup/ # 启动文件
