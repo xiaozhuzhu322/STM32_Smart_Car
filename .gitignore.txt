@@ -1,0 +1,30 @@
+# Keil 编译输出
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.lst
+*.axf
+*.crf
+*.map
+*.dep
+*.bak
+
+# Keil 用户配置（别人电脑用不了）
+*.uvoptx
+*.uvguix*
+*.scvd
+*.dbgconf
+*.uvprojx.user
+
+# 编译文件夹
+Debug/
+Release/
+Objects/
+Listings/
+build/
+
+# 系统文件
+Thumbs.db
+.DS_Store
