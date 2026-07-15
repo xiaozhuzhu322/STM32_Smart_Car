@@ -24,7 +24,7 @@
 - Core/Startup/ - 启动文件
 
 ## 演示视频
-[点击观看演示视频](docs/demo.mp4)（待上传）
+[点击观看演示视频](https://www.bilibili.com/video/BV1mrNv6fEvQ/)
 
 
 ## 作者
